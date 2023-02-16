@@ -80,6 +80,8 @@ margin-top: 10px; /*separar de la parte de arriba*/
     margin-right: 50px;
  }
 
+ 
+
 nav .profile-link a{
     color: black;
     border-bottom: 1px solid black;
@@ -90,7 +92,7 @@ nav .profile-link a{
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
     height: 100%;
-    background-image: url('../assets/img/deportista-toma-suplementos-1280x640.jpg');
+    background-image: url('../assets/img/taf2222.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -105,19 +107,18 @@ nav .profile-link a{
 }
 
 .home-main-text{
-    font-size: 55px;
-    font-weight: 80px;
-    letter-spacing: 10px; /*Espacio entre letras*/
-    color: black;
+    font-size: 50px;
+    font-weight: 100px;
+    letter-spacing: 20px; /*Espacio entre letras*/
     text-align: center;
     font-family:'Roboto mono', monospace;
-    color: black;
+    color: red;
 }
 
 .home-main-button{
-    width: 110px;
+    width: 300px;
     height: 50px;
-    background: #47cfac;
+    background: grey;
     display: grid;
     align-items: center;
 }
@@ -182,7 +183,7 @@ background-position: right;
 
 .blogs-button{
     border: 1px solid #47cfac;
-    padding: 10px 15px;
+    padding: 10px 35px;
     font-size: 12px;
 }
 
@@ -292,14 +293,11 @@ footer p{
 
 .blogpost-main-container .creatina{
     display: inline-block;
-    padding-left: 25px;
+    padding-left: 15px;
     max-width: 30%;
-    margin-bottom: 70px;
+    margin-bottom: 100px;
 }
 
-.blogpost-main-container .creatina p{
-    margin-bottom: 35px;
- }
 
 .blogpost-main-container .creatina img{
     width: 100%;
