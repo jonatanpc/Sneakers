@@ -133,9 +133,13 @@ nav .profile-link a{
 }
 
 .blogs-news-container{
-    background-color: #e6e9ed;
-    padding: 0 50px 40px;
+    background-color: palevioletred;
+    padding: 0 450px 10px;
+    
 }
+
+
+
 
 .blogs-main-new{
     display: grid;
