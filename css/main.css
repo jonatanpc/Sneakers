@@ -323,7 +323,14 @@ footer p{
     width: 100%;
 }
 
- 
+.blogpost-main-container .vitaminas h5 {
+    color: palevioletred;
+}
+.blogpost-main-container .grid-container h1{
+    color: palevioletred;
+}
+
+
 .blogpost-main-container .oxidos{
     display: inline-block;
     padding-left: 25px;
