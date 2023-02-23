@@ -13,6 +13,11 @@
     grid-row: 3;
 }
 
+.blogs-new-container {
+    grid-column: 1;
+    grid-row: 3;
+}
+
 .blogs-posts-container .post-container{
 max-width: 45%;
 }
@@ -22,6 +27,8 @@ max-width: 45%;
     grid-template-rows: 2fr;
     }
 
+
+
 .profile-main-container .profile-container{
     display: block;
 }
@@ -29,8 +36,5 @@ max-width: 45%;
     .blogs-posts-container .post-container{
         max-width: 95%;
     }
-   
-.blogs-news-container .blogs-main-new{
-max-width: 95%;
-} 
 }
+
