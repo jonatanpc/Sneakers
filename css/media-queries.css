@@ -8,12 +8,7 @@
     grid-row: 2;
 }
 
-.blogs-new-info-container{
-    grid-column: 1;
-    grid-row: 3;
-}
-
-.blogs-new-container {
+.blogs-news-container{
     grid-column: 1;
     grid-row: 3;
 }
