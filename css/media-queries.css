@@ -30,3 +30,7 @@ max-width: 45%;
         max-width: 95%;
     }
 }
+
+.blogs-news-container .blogs-news-container{
+    max-width: 45%;
+}
